@@ -2,4 +2,4 @@
  Primeiro repositório versionado
 
  Repositório criado durante uma aula ao vivo.
- Essa linha eu adicionar diretamente do GitHub.
+ Essa linha eu adicionei diretamente do GitHub.
